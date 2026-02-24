@@ -23,4 +23,5 @@
 \contentsline {subsubsection}{\numberline {2.1.3}Эффективные оценки}{31}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Экспоненциальное семейство распределений}{35}{subsubsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.2}Лекция 2}{36}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Достаточные статистики}{36}{subsubsection.2.2.1}%
 \contentsline {section}{\numberline {3}Тестирование гипотез}{36}{section.3}%

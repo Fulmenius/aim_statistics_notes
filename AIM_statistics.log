@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.10)  15 FEB 2026 03:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.10)  15 FEB 2026 04:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -944,7 +944,7 @@ Package hyperref Info: Link coloring OFF on input line 116.
 \@outlinefile=\write4
 \openout4 = `AIM_statistics.out'.
 
-<aim_logo_trans_hr_black.png, id=67, 1445.4pt x 883.3pt>
+<aim_logo_trans_hr_black.png, id=75, 1445.4pt x 883.3pt>
 File: aim_logo_trans_hr_black.png Graphic file (type png)
 <use aim_logo_trans_hr_black.png>
 Package pdftex.def Info: aim_logo_trans_hr_black.png  used on input line 129.
@@ -1077,21 +1077,14 @@ Underfull \hbox (badness 1448) in paragraph at lines 743--744
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-Package rerunfilecheck Warning: File `AIM_statistics.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AIM_statistics.out':
-(rerunfilecheck)             Before: 3DD210F99475F1B5A0FEB4E783B9648C;4124
-(rerunfilecheck)             After:  E7E2587CCF6EB9EEC27BFF3C941DF11E;4243.
+Package rerunfilecheck Info: File `AIM_statistics.out' has not changed.
+(rerunfilecheck)             Checksum: DE56176EBDFA3354E6D0BB75B3625773;4487.
  ) 
 Here is how much of TeX's memory you used:
- 26417 strings out of 474222
- 513960 string characters out of 5748733
+ 26423 strings out of 474222
+ 514064 string characters out of 5748733
  1941975 words of memory out of 5000000
- 48034 multiletter control sequences out of 15000+600000
+ 48037 multiletter control sequences out of 15000+600000
  578525 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,87p,1553b,1132s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1117,10 +1110,10 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on AIM_statistics.pdf (38 pages, 635179 bytes).
+Output written on AIM_statistics.pdf (38 pages, 637072 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 497 compressed objects within 5 object streams
- 214 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 613 PDF objects out of 1000 (max. 8388607)
+ 512 compressed objects within 6 object streams
+ 217 named destinations out of 1000 (max. 500000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
